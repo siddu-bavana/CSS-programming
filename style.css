@@ -1,0 +1,27 @@
+ h1 {
+    color: blue;
+    background-color: black;
+}
+p {
+    color: red;
+}
+button {
+    color: aliceblue;
+    background-color: rgb(216, 142, 51) ;
+    
+}
+body {
+    background-color: rgb(168, 141, 107);
+} 
+
+ * {
+    color: blue;    /*this is universal selector*/
+ }
+
+ /* element selector = h1{} p{}....*/
+
+ /* id selector for ids #idname  */
+
+ /* for classes there is class selector .class is used to select */
+
+ 

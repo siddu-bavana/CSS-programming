@@ -1,0 +1,11 @@
+.image{
+    background-image: url("image.png");
+    background-size: cover;
+    position: fixed;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: flex-end;
+
+}
+

@@ -1,0 +1,32 @@
+div {
+    color: white;
+    background-color: black;
+    width: 100vw;
+    height: 60px;
+}
+
+#logo {
+    color: orange;
+    font-size: 25px;
+}
+
+
+
+a {
+    color: white;
+    padding-right: 150px;
+    padding-top: 25px;
+    text-decoration: none;
+}
+
+footer {
+    padding-bottom: 20px;
+    position : fixed;
+    text-align: center; 
+    background-color: black;
+    color: white;
+    width: 100vw;
+    height: 40px;
+    font-size: 20px;
+    margin-top : 620px;
+}

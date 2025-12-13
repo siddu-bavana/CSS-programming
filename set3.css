@@ -1,0 +1,16 @@
+div {
+    color: white;
+    background-color: black;
+    width: 1600px;
+    height: 60px;
+}
+a {
+    color: white;
+    padding-right: 150px;
+    padding-top: 50px;
+    text-decoration: none;
+}
+#logo {
+    color: orange;
+    font-size: 25px;   
+}
